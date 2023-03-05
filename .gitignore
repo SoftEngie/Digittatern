@@ -1,0 +1,36 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
+# Dependencies and build artifacts
+lib/
+bin/
+*.a
+*.so
+*.dll
+*.dylib
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.sdf
+*.opensdf
+*.sln
+*.xcodeproj/
+*.xcworkspace/
+
